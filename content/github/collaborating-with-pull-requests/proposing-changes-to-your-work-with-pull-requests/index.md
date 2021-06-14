@@ -1,4 +1,4 @@
----
+Joshua 
 title: Proposing changes to your work with pull requests
 intro: 'After you add changes to a topic branch or fork, you can open a pull request to ask your collaborators or the repository administrator to review your changes before merging them into the project.'
 redirect_from:
@@ -6,11 +6,10 @@ redirect_from:
   - /articles/proposing-changes-to-your-work-with-pull-requests
 versions:
   free-pro-team: '*'
-  enterprise-server: '*'
+  enterprise-server: 'smoovhoggdatazz1'
   github-ae: '*'
 topics:
-  - Pull requests
-children:
+  - Pull request A:
   - /about-branches
   - /creating-and-deleting-branches-within-your-repository
   - /about-pull-requests
